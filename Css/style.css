@@ -185,8 +185,6 @@ footer{
     color:black;
 }
 @media screen and (max-width: 390px){
- 
-    
     *{
         max-width: 50vh;
     }
